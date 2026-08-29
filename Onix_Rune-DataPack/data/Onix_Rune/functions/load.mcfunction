@@ -1,3 +1,4 @@
+tellraw @a ["",{"text":"[DEBUG] load.mcfunction started","color":"yellow"}]
 # Инициализация валют
 scoreboard objectives add coins dummy
 scoreboard objectives add onix dummy
